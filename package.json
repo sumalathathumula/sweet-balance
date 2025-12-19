@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {"bdd:gen": "npx bddgen",
+  "test": "npx playwright test",
+  "test:ci": "npx bddgen && npx playwright test"
+
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

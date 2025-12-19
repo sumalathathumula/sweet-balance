@@ -8,6 +8,7 @@ import 'dotenv/config';
   steps: ['steps/**/*.js', 'fixtures/fixtures.js','../../utils/logger.js']
 });
 
+
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
