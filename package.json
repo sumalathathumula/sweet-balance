@@ -1,0 +1,23 @@
+{
+  "name": "playwrightproject_sweetbalance_120925",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.3.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.3",
+    "dotenv": "^17.2.3",
+    "playwright-bdd": "^8.4.2"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.6.0",
+    "winston": "^3.19.0"
+  }
+}

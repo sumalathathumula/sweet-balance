@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "m",
+      "value": "e18bc966-f917-463e-a110-66539195bda47e82a7",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1800671933.299324,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "71ddf55a-5e10-4778-b3ef-b60344e790bb0da909",
+      "domain": ".sweet-balance-test-env-3-numpyninjadiabe.replit.app",
+      "path": "/",
+      "expires": 1797647933,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "adc10a79-c0bc-49bd-bfdc-7dfaa72a18a091f92d",
+      "domain": ".sweet-balance-test-env-3-numpyninjadiabe.replit.app",
+      "path": "/",
+      "expires": 1766113733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "diabecare.sid",
+      "value": "s%3Ayj7pdWZxoNxPJYKodqCAz06NohWhxzDL.kRHfEh7v579Uc2rRaxQN1Y2oPz%2BoYxpNyB7GQxox3Yc",
+      "domain": "sweet-balance-test-env-3-numpyninjadiabe.replit.app",
+      "path": "/",
+      "expires": 1766716734.564657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://sweet-balance-test-env-3-numpyninjadiabe.replit.app",
+      "localStorage": [
+        {
+          "name": "userMode",
+          "value": "free"
+        }
+      ]
+    }
+  ]
+}

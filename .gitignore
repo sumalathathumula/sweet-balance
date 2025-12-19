@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+/test-results/
+/allure-results/
+/allure-report/
+/playwright-report/
+/blob-report/
+.vscode/
+/logs/
+.env
+.env.*
+/playwright/.cache/
+
