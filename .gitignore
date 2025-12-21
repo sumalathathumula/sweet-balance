@@ -7,6 +7,6 @@ node_modules/
 /playwright-report/
 /blob-report/
 .vscode/
-/logs/
+/logging/
 /playwright/.cache/
 

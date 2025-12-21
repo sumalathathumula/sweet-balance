@@ -2,10 +2,10 @@
   "cookies": [
     {
       "name": "diabecare.sid",
-      "value": "s%3Axvcv3PXgeKyK8wzeF1QyufRUjKEjW4NO.cvmUHgO943whKyeZKFH2V%2Fm4Ig7UnzY0Gm3vdJJoZyo",
+      "value": "s%3APtx2jB3R9gg0Lanv19TRuYq1M3zBCvkJ.GZcRKuO4%2B81rJCvbF1mplnj7imifa7jTXIQs%2BfVXsI4",
       "domain": "sweet-balance-test-env-3-numpyninjadiabe.replit.app",
       "path": "/",
-      "expires": 1766774625.186486,
+      "expires": 1766788597.774053,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
